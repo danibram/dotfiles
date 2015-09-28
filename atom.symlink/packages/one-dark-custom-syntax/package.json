@@ -1,0 +1,12 @@
+{
+  "name": "one-dark-custom-syntax",
+  "theme": "syntax",
+  "version": "1.1.1",
+  "description": "A dark syntax theme",
+  "keywords": [ ],
+  "repository": "",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
