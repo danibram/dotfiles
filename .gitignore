@@ -1,0 +1,6 @@
+atom.symlink/.apm
+atom.symlink/.apm/*
+atom.symlink/packages/*
+!atom.symlink/packages/parcel
+atom.symlink/atom-shell
+atom.symlink/atom-shell/*

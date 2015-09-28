@@ -1,0 +1,57 @@
+"*":
+  "exception-reporting":
+    userId: "1311e8fd-4ff4-52f1-9f8d-33676c2730e6"
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "one-dark-ui"
+      "one-dark-custom-syntax"
+    ]
+  editor:
+    invisibles:
+      eol: " "
+    showInvisibles: true
+    showIndentGuide: true
+    fontFamily: "Source Code Pro"
+    fontSize: 13
+    tabLength: 4
+    softWrap: true
+  "paper-flat-ui": {}
+  "atom-typescript":
+    showSemanticView: true
+  react: {}
+  tabs:
+    usePreviewTabs: true
+  "atom-beautify": {}
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false
+  linter: {}
+  "linter-jscs":
+    preset: "google"
+    esnext: true
+    onlyConfig: true
+    fixOnSave: true
+  "linter-jshint":
+    lintInlineJavaScript: true
+    disableWhenNoJshintrcFileInPath: true
+  docblockr: {}
+  "atom-material-ui":
+    compactTreeView: true
+    depth: true
+    showTabIcons: "Show on active tab"
+    tabSize: "Small"
+    accentColor: "Green"
+    panelContrast: true
+    useRobotoInUI: true
+    useRoboto: true
+  "one-dark-ui":
+    layoutMode: "Compact"
+  "es-identifier-highlight":
+    enableDebugOutput: true
+    minimapLine: false
+    lightTheme: true
+  "linter-scss-lint": {}
+  "file-icons":
+    tabPaneIcon: false
+  "todo-show": {}
