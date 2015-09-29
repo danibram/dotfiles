@@ -2,6 +2,5 @@ atom.symlink/.apm
 atom.symlink/.apm/*
 atom.symlink/packages/*
 !atom.symlink/packages/package-sync
-!atom.symlink/packages/one-dark-custom-syntax
 atom.symlink/atom-shell
 atom.symlink/atom-shell/*

@@ -6,7 +6,7 @@
   core:
     themes: [
       "one-dark-ui"
-      "one-dark-custom-syntax"
+      "flat-ui-syntax"
     ]
   editor:
     invisibles:
