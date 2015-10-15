@@ -5,18 +5,17 @@
     showOnStartup: false
   core:
     themes: [
-      "one-dark-ui"
+      "isotope-ui"
       "flat-ui-syntax"
     ]
   editor:
-    invisibles:
-      eol: " "
+    invisibles: {}
     showInvisibles: true
     showIndentGuide: true
-    fontFamily: "Source Code Pro"
+    fontFamily: "Fira Mono"
     fontSize: 13
-    tabLength: 4
     softWrap: true
+    tabLength: 4
   "paper-flat-ui": {}
   "atom-typescript":
     showSemanticView: true
@@ -37,14 +36,9 @@
     disableWhenNoJshintrcFileInPath: true
   docblockr: {}
   "atom-material-ui":
-    compactTreeView: true
-    depth: true
-    showTabIcons: "Show on active tab"
     tabSize: "Small"
-    accentColor: "Green"
     panelContrast: true
-    useRobotoInUI: true
-    useRoboto: true
+    compactTreeView: true
   "one-dark-ui":
     layoutMode: "Compact"
   "es-identifier-highlight":
@@ -55,3 +49,7 @@
   "file-icons":
     tabPaneIcon: false
   "todo-show": {}
+  "tree-view": {}
+  "tool-bar":
+    iconSize: "16px"
+    position: "Left"
